@@ -8,3 +8,13 @@ DocuPilot is a developer tool that automates the creation of documentation for a
 4. Choose Fine-grained Tokens
 5. Generate new token
 6. Fill in the required details
+
+## Setting up Environment configurations
+1. Python>=3.10
+2. specify the repo_url
+3. provide the gemini_model
+4. Set the GEMINI_API_KEY
+5. Provide the ACCESS_TOKEN
+
+## To execute
+1. py document.py
